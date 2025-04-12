@@ -10,3 +10,6 @@ I can use it fluently soon.
 
 This is my fourth time to open this file.
 I'm learning what is stage.
+
+This my fifth time to open this file.
+Git control the changes of file.
