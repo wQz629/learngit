@@ -1,2 +1,5 @@
 This is my first time to learn to use git.
 May I can learn it well.
+
+This is my second time to open this file.
+I'm learning how to use 'git status', 'git diff' and so on. 
