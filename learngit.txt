@@ -13,3 +13,6 @@ I'm learning what is stage.
 
 This my fifth time to open this file.
 Git control the changes of file.
+
+This my sixth time to open this file.
+Git tracks the changes of file, instead of file itself.
