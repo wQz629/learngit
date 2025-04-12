@@ -7,3 +7,6 @@ I'm learning how to use 'git status', 'git diff' and so on.
 This is my third time to open this file.
 I think I am more familiar with git.
 I can use it fluently soon.
+
+This is my fourth time to open this file.
+I'm learning what is stage.
