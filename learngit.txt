@@ -25,3 +25,6 @@ This change is in branch feature1.
 
 2025/04/12 15:11
 This change is in branch master.
+
+2025/04/12 15:21
+This change is merged to master by "--no-ff", which can show the entire change process.  
