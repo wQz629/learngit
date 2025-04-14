@@ -28,3 +28,7 @@ This change is in branch master.
 
 2025/04/12 15:21
 This change is merged to master by "--no-ff", which can show the entire change process.  
+
+2025/04/14 11:05
+Haha, I am link the github and my computer successfully.
+I can try to push and pull some message conviently. 
